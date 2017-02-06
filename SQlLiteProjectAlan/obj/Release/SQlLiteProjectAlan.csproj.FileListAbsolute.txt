@@ -1,0 +1,12 @@
+C:\Users\Raven\documents\visual studio 2012\Projects\SQlLiteProjectAlan\SQlLiteProjectAlan\bin\Release\SQlLiteProjectAlan.exe.config
+C:\Users\Raven\documents\visual studio 2012\Projects\SQlLiteProjectAlan\SQlLiteProjectAlan\bin\Release\SQlLiteProjectAlan.exe
+C:\Users\Raven\documents\visual studio 2012\Projects\SQlLiteProjectAlan\SQlLiteProjectAlan\bin\Release\SQlLiteProjectAlan.pdb
+C:\Users\Raven\documents\visual studio 2012\Projects\SQlLiteProjectAlan\SQlLiteProjectAlan\bin\Release\System.Data.SQLite.dll
+C:\Users\Raven\documents\visual studio 2012\Projects\SQlLiteProjectAlan\SQlLiteProjectAlan\bin\Release\System.Data.SQLite.pdb
+C:\Users\Raven\documents\visual studio 2012\Projects\SQlLiteProjectAlan\SQlLiteProjectAlan\obj\Release\SQlLiteProjectAlan.csprojResolveAssemblyReference.cache
+C:\Users\Raven\documents\visual studio 2012\Projects\SQlLiteProjectAlan\SQlLiteProjectAlan\obj\Release\SQlLiteProjectAlan.Form1.resources
+C:\Users\Raven\documents\visual studio 2012\Projects\SQlLiteProjectAlan\SQlLiteProjectAlan\obj\Release\SQlLiteProjectAlan.Properties.Resources.resources
+C:\Users\Raven\documents\visual studio 2012\Projects\SQlLiteProjectAlan\SQlLiteProjectAlan\obj\Release\SQlLiteProjectAlan.csproj.GenerateResource.Cache
+C:\Users\Raven\documents\visual studio 2012\Projects\SQlLiteProjectAlan\SQlLiteProjectAlan\obj\Release\SQlLiteProjectAlan.exe
+C:\Users\Raven\documents\visual studio 2012\Projects\SQlLiteProjectAlan\SQlLiteProjectAlan\obj\Release\SQlLiteProjectAlan.pdb
+C:\Users\Raven\documents\visual studio 2012\Projects\SQlLiteProjectAlan\SQlLiteProjectAlan\obj\Release\SQlLiteProjectAlan.csproj.ResolveComReference.cache
